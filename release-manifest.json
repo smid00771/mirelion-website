@@ -1,21 +1,6 @@
 {
-  "website": "https://mirelionhq.com",
-  "app": "https://clubbatting.com",
-  "stage": "beta",
-  "files": {
-    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "17280e7a0da7499d75dd473d48bf83ce295029af9e3e5ac77e43568fb454eddb",
-    "app.html": "dbb3f62af4b652bde99087321f53e4e9cfcc2d4a70596033c48a33a83157ff47",
-    "batting.html": "6a9d8978a40dc346205b775ea353c7b5be1cf02ef4cc2953aa630ec29850a79b",
-    "CNAME": "0a1a3e7f399d7beaf0eeebea36aeb4827bc88dae09cfcb4816b8643887444244",
-    "contact.html": "46407e29e3bf313de0e110042996adff734d0ea62c8515d7fafb7dafaea95624",
-    "enquire.html": "56fb4e0d89d481dbd6ebda798a469ee6f8a10c1e135bb9450c2fa8f75eeffb9f",
-    "icons/mirelion.svg": "4298976dd23bcd15db5fe005ed3c185a70ba13d063411468474e88641059bb48",
-    "index.html": "f333992bd148b7b089e045d6262ef0389453f8d4d7e34e98fa64c7c5f19af184",
-    "marketing.css": "fb3de192f73855a9b114bf4f5f59c120e159551e1782fb5b273e6ccb1d2cb1e9",
-    "marketing.js": "c62ca14516508b14b9d4c3857538e9b36501bc422daea2432ee7130862411527",
-    "privacy.html": "a4df3a5c61edb1fdc31d5c240815e8c1f2ea673d09e86cd916d37e146c924653",
-    "robots.txt": "9a55f5005bdfd0214c4a520958be9758ba68b4cfb5ae9d3708e2aef43a865d5b",
-    "teams.html": "d65b62fb6c4d875cb9bccf730c5a29ee824ce43fdad836e37210d98dcf67a455"
-  }
+  "role": "legacy compatibility host",
+  "canonical": "https://mirelionhq.com",
+  "source_repository": "smid00771/batting-development-platform",
+  "app_version": "0.8.62.272"
 }
